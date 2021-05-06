@@ -18,6 +18,7 @@
       <pubDate>Thu, 09 Jul 2020 13:40:40 -0300</pubDate>
       <guid>https://fnaufel.github.io/site/pt/post/2020-07-09-usando-e-produzindo-material-livre/</guid>
       <description>
+&lt;script src=&#34;https://fnaufel.github.io/site/pt/post/2020-07-09-usando-e-produzindo-material-livre/index.pt_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;como-achar-material-para-minhas-aulas-online&#34; class=&#34;section level2&#34;&gt;
@@ -86,22 +87,22 @@
 &lt;p&gt;As principais licenças Creative Commons são as seguintes (texto do &lt;a href=&#34;https://br.creativecommons.org/&#34;&gt;site brasileiro da CC&lt;/a&gt;):&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Atribuição (CC BY)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://br.creativecommons.org/wp-content/uploads/2015/04/by.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;by.jpg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Permite que outros distribuam, remixem, adaptem e criem a partir do seu trabalho, mesmo para fins comerciais, desde que lhe atribuam o devido crédito pela criação original. É a licença mais flexível de todas as licenças disponíveis. É recomendada para maximizar a disseminação e uso dos materiais licenciados.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Atribuição-CompartilhaIgual (CC BY-SA)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://br.creativecommons.org/wp-content/uploads/2015/04/by-sa.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;by-sa.jpg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Permite que outros remixem, adaptem e criem a partir do seu trabalho, mesmo para fins comerciais, desde que lhe atribuam o devido crédito e que licenciem as novas criações sob termos idênticos. Esta licença costuma ser comparada com as licenças de software livre e de código aberto “copyleft”. Todos os trabalhos novos baseados no seu terão a mesma licença, portanto quaisquer trabalhos derivados também permitirão o uso comercial. Esta é a licença usada pela Wikipédia e é recomendada para materiais que seriam beneficiados com a incorporação de conteúdos da Wikipédia e de outros projetos com licenciamento semelhante.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Atribuição-SemDerivações (CC BY-ND)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://br.creativecommons.org/wp-content/uploads/2015/04/by-nd.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;by-nd.jpg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Permite a redistribuição, comercial e não comercial, desde que o trabalho seja distribuído inalterado e no seu todo, com crédito atribuído a você.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Atribuição-NãoComercial (CC BY-NC)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://br.creativecommons.org/wp-content/uploads/2015/04/by-nc.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;by-nc.jpg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, e embora os novos trabalhos tenham de lhe atribuir o devido crédito e não possam ser usados para fins comerciais, os usuários não têm de licenciar esses trabalhos derivados sob os mesmos termos.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Atribuição-NãoComercial-CompartilhaIgual (CC BY-NC-SA)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://br.creativecommons.org/wp-content/uploads/2015/04/by-nc-sa.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;by-nc-sa.jpg&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam a você o devido crédito e que licenciem as novas criações sob termos idênticos.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Atribuição-NãoComercial-SemDerivados (CC BY-NC-ND)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://br.creativecommons.org/wp-content/uploads/2015/04/by-nc-nd.jpg&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;by-nc-nd.jpg&#34; /&gt;
 Esta é a mais restritiva das licenças principais, só permitindo que outros façam download dos seus trabalhos e os compartilhem desde que atribuam crédito a você, mas sem que possam alterá-los de nenhuma forma, nem utilizá-los para fins comerciais.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Domínio público (CC 0)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;Publicdomainsymbolversion1-scaled.jpeg&#34; /&gt;&lt;/p&gt;
